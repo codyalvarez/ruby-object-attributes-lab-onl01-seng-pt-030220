@@ -3,6 +3,9 @@ class Dog
     doggos_name = name
   end
 
+  def name
+    doggos_name
+  end
 
 
 
