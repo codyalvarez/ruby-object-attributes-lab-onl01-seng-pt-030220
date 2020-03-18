@@ -3,7 +3,7 @@ class Dog
     doggos_name = name
   end
 
-  def 
+  def
 
 
 
